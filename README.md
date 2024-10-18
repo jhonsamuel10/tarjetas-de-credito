@@ -33,8 +33,6 @@ Este proyecto consiste en el análisis de un conjunto de datos que contiene info
 - linear_model: Modelos de regresión lineal para predicciones.
 - ensemble: Métodos para combinar varios modelos.
 - metrics: Métricas para evaluar el rendimiento del modelo.
-- cluster: Algoritmos para agrupar datos.
-
 
 
 - **Jupyter Notebook**: Entorno interactivo para ejecutar y documentar el análisis.
